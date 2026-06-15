@@ -164,4 +164,4 @@ class TestTTLCache:
         cache.invalidate("key1")
         assert cache.get("key1") is None
 
-# _r 20260526141514-91838ca5
+# _r 20260615135805-c4ed3230
